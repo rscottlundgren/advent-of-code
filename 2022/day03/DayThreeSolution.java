@@ -253,6 +253,7 @@ class DayThreeSolution {
      *                               updated.
      */
     static void solveDayThree() throws FileNotFoundException {
+        
         // Instantiate File & Scanner
         File inputDayThree = new File(
                 "/Users/jarvis/.dev/advent-of-code/2022/day03/DayThreeInput.txt");
