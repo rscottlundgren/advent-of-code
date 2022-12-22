@@ -240,8 +240,8 @@ class DayThreeSolution {
     /**
      * The `solveDayThree()` method accepts no parameters and returns
      * no values. Using a Scanner, the method reads data points from
-     * the "DayThreeInput.txt" file and evaluations each data point
-     * twice - once following the rules outlined in Part One and once
+     * the "DayThreeInput.txt" file and evaluates each data point twice 
+     * - once following the rules outlined in Part One and once
      * following the rules outlined in Part Two. After all values have
      * been evaluated, the end results are printed to the terminal for
      * the User in a "human readable" format with context for each
